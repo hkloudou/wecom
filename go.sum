@@ -1,0 +1,16 @@
+github.com/hkloudou/nw v1.0.0 h1:s2OY4VeFews0KG805AGFF88emDwIxvZ4zFfakzQvJOc=
+github.com/hkloudou/nw v1.0.0/go.mod h1:Pf8sCSX1xDpKN+BJpzPd8+TyckDsbiAxuEPYCE3R93U=
+github.com/hkloudou/nw v1.0.1 h1:+oXf5O30dRuD/yaFmKDWaO2MZJ+/QGOwwvShUDpMPzo=
+github.com/hkloudou/nw v1.0.1/go.mod h1:Pf8sCSX1xDpKN+BJpzPd8+TyckDsbiAxuEPYCE3R93U=
+github.com/hkloudou/nw v1.0.2 h1:W3Cr4LvUivC2FdpJea60UThj7ty8IeClwQx3q7KvBg0=
+github.com/hkloudou/nw v1.0.2/go.mod h1:Pf8sCSX1xDpKN+BJpzPd8+TyckDsbiAxuEPYCE3R93U=
+github.com/hkloudou/nw v1.0.3 h1:7t2exmvrD/5i6uNK0+gnO+JktgCQVlhl3/rYevjO8Ss=
+github.com/hkloudou/nw v1.0.3/go.mod h1:Pf8sCSX1xDpKN+BJpzPd8+TyckDsbiAxuEPYCE3R93U=
+github.com/hkloudou/xlib v1.0.67 h1:hj2qbswco5MHxFWoMYXhjWVrEzI1+8gznubWSmm0lPw=
+github.com/hkloudou/xlib v1.0.67/go.mod h1:bUvnC+aD1HVjCEyNn0UGozs96KTvvoJNWCFYyVQ0Bqg=
+github.com/tidwall/gjson v1.17.1 h1:wlYEnwqAHgzmhNUFfw7Xalt2JzQvsMx2Se4PcoFCT/U=
+github.com/tidwall/gjson v1.17.1/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
+github.com/tidwall/match v1.1.1 h1:+Ho715JplO36QYgwN9PGYNhgZvoUSc9X2c80KVTi+GA=
+github.com/tidwall/match v1.1.1/go.mod h1:eRSPERbgtNPcGhD8UCthc6PmLEQXEWd3PRB5JTxsfmM=
+github.com/tidwall/pretty v1.2.0 h1:RWIZEg2iJ8/g6fDDYzMpobmaoGh5OLl4AXtGUGPcqCs=
+github.com/tidwall/pretty v1.2.0/go.mod h1:ITEVvHYasfjBbM0u2Pg8T2nJnzm8xPwvNhhsoaGGjNU=
