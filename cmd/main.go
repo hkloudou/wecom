@@ -1,6 +1,7 @@
 package main
 
 import (
+	_ "embed"
 	"fmt"
 	"strings"
 	"time"
@@ -22,6 +23,7 @@ func main() {
 		}
 		list, err := wecom.Third_License_list_actived_account(provider_access_token, corpid)
 		if err != nil {
+			fmt.Println(err)
 			continue
 		}
 		actived := []string{}
